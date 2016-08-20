@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P1-Popular-Movies</string>
+    <string name="action_settings">Sort Movies</string>
+    <string name="popularity">popularity</string>
+    <string name="vote_average">vote_average</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="pref_sorting_criteria_key">sorting_criteria</string>
+    <string name="pref_sorting_criteria_default_value">popularity</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+
+
+
+
+
+
+</resources>
